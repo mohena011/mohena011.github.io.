@@ -27,4 +27,4 @@
 
 | Date | Resource person | Activity done|
 | ----------- | ----------- |------------|
-| 15-07-2024 | Dr.Pyare Lal Garg |Gave us information about life living values|
+| 15-07-2024 | Dr.Pyare Lal Garg and Mr.Sony Goyal|Gave us information about life living values and taught about the concept of LIFE( learn,Innovate,Future,Explore|

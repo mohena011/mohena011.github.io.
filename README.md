@@ -19,4 +19,4 @@
 
 | Date | Resource person|Activity done|
 | ----------- | ----------- |------------|
-| 12-07-2024 | Ms. Harjot Kaur| Taught us about UHV and after that peer interaction was happened|
+| 12-07-2024 | Ms. Harjot Kaur| Taught us about UHV and after that peer interaction session was happened|

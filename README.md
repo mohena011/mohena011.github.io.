@@ -3,5 +3,5 @@
 
 | Date| Resource person|activity done|
 | ----------- | ----------- |------------|
-| 15-07-2024 | Dr.Pyare Lal Garg |Gave us information about life living values|
-| Paragraph | Text |
+| 09-07-2024 |IAS Harleen Kaur and college faculty members|Shabad kirtan was done in gurdwara Sahib and then IAS Harleen kaur along with college faculy members gave us a welcome speech and told us how we can be consistence in our next 4 years.|
+

@@ -12,3 +12,11 @@
 |Date | Resource person |Activity done|
 | ----------- | ----------- |-----------|
 | 11-07-2024 | Dr. Arvind Grewal |. Delievered a very interesting speech about who we are and provided us with the information about college|
+
+
+#mohena011.github.io
+##Activity update of student induction program 
+
+| Date | Resource person|Activity done|
+| ----------- | ----------- |------------|
+| 12-07-2024 | Ms. Harjot Kaur| Taught us about UHV and after that peer interaction was happened|

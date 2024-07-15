@@ -1,5 +1,5 @@
 #mohena011.github.io.
-##Activity update for student induction program 
+##Activity update for student induction programme 
 
 | Date| Resource person|activity done|
 | ----------- | ----------- |------------|
@@ -7,7 +7,7 @@
 
 
 #mohena011.github.io.
-##Activity update for student induction program
+##Activity update for student induction programme 
 
 |Date | Resource person |Activity done|
 | ----------- | ----------- |-----------|
@@ -15,8 +15,16 @@
 
 
 #mohena011.github.io
-##Activity update of student induction program 
+##Activity update of student induction programme
 
 | Date | Resource person|Activity done|
 | ----------- | ----------- |------------|
 | 12-07-2024 | Ms. Harjot Kaur| Taught us about UHV and after that peer interaction session was happened|
+
+
+#mohena011.github.io.
+##Activity update of student induction programme
+
+| Date | Resource person | Activity done|
+| ----------- | ----------- |------------|
+| 15-07-2024 | Dr.Pyare Lal Garg |Gave us information about life living values|

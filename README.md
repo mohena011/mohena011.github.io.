@@ -28,3 +28,11 @@
 | Date | Resource person | Activity done|
 | ----------- | ----------- |------------|
 | 15-07-2024 | Dr.Pyare Lal Garg and Mr.Sony Goyal|Gave us information about life living values and taught about the concept of LIFE( learn,Innovate,Future,Explore)|
+
+
+#mohena011.github.io.
+##Activity update of student induction programme 
+
+| Date | Description | Activity done|
+| ----------- | ----------- |--------------|
+| 16-07-2024 | Dr.H.S Rai |Class held at 11 regarding web pages and githup and went for department visit 

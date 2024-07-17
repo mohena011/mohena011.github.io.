@@ -3,7 +3,7 @@
 *Here I keep a record of what I have done in the college each day*
 
 #mohena011.github.io.
-##Activity update for student induction programme 
+**Activity update for student induction programme**
 
 | Date| Resource person|activity done|
 | ----------- | ----------- |------------|

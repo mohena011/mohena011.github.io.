@@ -13,7 +13,3 @@
 | 15-07-2024 | Dr.Pyare Lal Garg and Mr.Sony Goyal|Gave us information about life living values and taught about the concept of LIFE( learn,Innovate,Future,Explore)|
 | 16-07-2024 | Dr.H.S Rai |Class held at 11 regarding web pages and githup and went for department visit |
 |17-07-2024| Mr. Rishi Kapoor and our seniors | Mr.RK taught us about UHV under which he covered the topics of family harmony ,human values and more and in the peer interaction session our seniors told us about ChatGPT and Excel|
-
-
-That is so funny! 🌙
-

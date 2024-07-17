@@ -1,7 +1,7 @@
 **WELCOME YOU ALL TO MY WEBSITE**
- #My name is Mohena Kaur and I am a coder.
+#My name is Mohena Kaur and I am a coder.
  
- Here I keep the record of what I have done in the college each day.
+Here I keep the record of what I have done in the college each day.
 
 #mohena011.github.io.
 ##Activity update for student induction programme 

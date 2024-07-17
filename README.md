@@ -15,5 +15,5 @@
 |17-07-2024| Mr. Rishi Kapoor and our seniors | Mr.RK taught us about UHV under which he covered the topics of family harmony ,human values and more and in the peer interaction session our seniors told us about ChatGPT and Excel|
 
 
-That is so funny! :joy: 😂
+That is so funny! 🌙
 

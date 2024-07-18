@@ -12,4 +12,5 @@
 | 12-07-2024 | Ms. Harjot Kaur| Taught us about UHV and after that peer interaction session was happened|
 | 15-07-2024 | Dr.Pyare Lal Garg and Mr.Sony Goyal|Gave us information about life living values and taught about the concept of LIFE( learn,Innovate,Future,Explore)|
 | 16-07-2024 | Dr.H.S Rai |Class held at 11 regarding web pages and githup and went for department visit |
-|17-07-2024| Mr. Rishi Kapoor and our seniors | Mr.RK taught us about UHV under which he covered the topics of family harmony ,human values and more and in the peer interaction session our seniors told us about ChatGPT and Excel|
+|17-07-2024| Prof. Rishi Kapoor and our seniors | Mr.RK taught us about UHV under which he covered the topics of family harmony ,human values and more and in the peer interaction session our seniors told us about ChatGPT and Excel|
+|18-07-2024| Prof. Harpal Singh Pannu and Prof. Rishi Kapoor along with school faculty members| Prof. Harpal Singh Pannutold about about the life of Guru Nanak Dev Ji and teach about his life lessons and Prof. Rishi Kapoor taught us UHV under which he covered the topic of self and body and after break of 45 minutes our college faculty members give us the information regarding NSS.|

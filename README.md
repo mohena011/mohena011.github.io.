@@ -2,6 +2,8 @@
 
 # WELCOME YOU ALL TO MY WEBSITE #
 
+![scenery](https://github.com/mohena011/mohena011.github.io./blob/main/a1137b1f2a454a26f4ffc7b4476b78c8.jpg)
+
 ##**INTRODUCTION**##
 
 Hello visiters. I am Mohena Kaur and I am from Ludhiana.I really find coding fascinating that how people create their own websites and apps. And I would really wish that I'll also develop this skill.

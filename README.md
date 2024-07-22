@@ -14,14 +14,22 @@ Hello visiters. I am Mohena Kaur and I am from Ludhiana.I really find coding fas
 
 | Subject| Obtained marks| Total marks|
 | ----------- | ----------- |----------|
-| djdjxn | 99 |
+|English | 93 |100|
+|Punjabi|93|100|
+|Mathematics|97|100|
+|Science|84|100|
+|Social Science|86|100|
 
 ### CLASS 12th ###
 ### Marks Detail ###
 
 | Subject| Obtained marks| Total marks|
 | ----------- | ----------- |----------|
-|ycfjffuh| 97|
+|English| 91|100|
+|Physics|74|100|
+|Chemistry|82|100|
+|Mathematics|69|100|
+|Biology|78|100|
 
 *Here's my excel course completion certificate.*
 ![Excel certificate](https://github.com/mohena011/mohena011.github.io./blob/main/IMG_20240722_002206.jpg)

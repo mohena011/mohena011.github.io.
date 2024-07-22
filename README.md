@@ -1,7 +1,29 @@
-**WELCOME YOU ALL TO MY WEBSITE**
-# My name is Mohena Kaur and I am a coder.
+#**mohena011.github.io.**
 
-Here's my excel course completion certificate.
+# WELCOME YOU ALL TO MY WEBSITE #
+
+##**INTRODUCTION**##
+Hello visiters. I am Mohena Kaur and I am from Ludhiana.I really find coding fascinating that how people create their own websites and apps. And I would really wish that I'll also develop this skill.
+
+##**EDUCATION** ##
+
+### CLASS 10th ###
+### From###
+**Nankana Sahib Public School, Ludhiana**
+### Marks Detail###
+
+| Subject| Obtained marks| Total marks|
+| ----------- | ----------- |----------|
+| djdjxn | 99 |
+
+### CLASS 12th ###
+### Marks Detail ###
+
+| Subject| Obtained marks| Total marks|
+| ----------- | ----------- |----------|
+|ycfjffuh| 97|
+
+*Here's my excel course completion certificate.*
 ![Excel certificate](https://github.com/mohena011/mohena011.github.io./blob/main/IMG_20240722_002206.jpg)
 
 *Here I keep a record of what I have done in the college each day*
